@@ -13,6 +13,7 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	int a, b;
+        int y;
 	float h;
 	cout << "¬вед≥ть м≥н≥мальне число = ";
 	cin >> a;
